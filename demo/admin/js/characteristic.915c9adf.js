@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[32],{3809:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var c=e(3396);const a={class:"content"},r=(0,c._)("h1",{class:"content__title"},"Раздел в разработке",-1),s=[r];function i(n,t,e,r,i,u){return(0,c.wg)(),(0,c.iD)("div",a,s)}var u={name:"CharacteristicView",components:{}},o=e(89);const d=(0,o.Z)(u,[["render",i]]);var f=d}}]);
+//# sourceMappingURL=characteristic.915c9adf.js.map

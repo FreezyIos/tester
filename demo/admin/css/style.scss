@@ -1,0 +1,94 @@
+body,
+html {
+  min-width: 1200px;
+}
+
+.form-auth {
+  width: 100%;
+  max-width: 400px;
+  padding: 50px;
+  box-shadow: 0 3px 25px rgba(0, 0, 0, 0.2);
+  margin: 30px auto;
+  box-sizing: border-box;
+  background: #f9f9f9;
+  @media (max-width: 460px) {
+    margin: 30px;
+    padding: 30px;
+    width: calc(100% - 60px);
+  }
+  * {
+    box-sizing: border-box;
+  }
+
+  // .form-auth__respond-message
+  &__respond-message {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  // .form-auth__input-wrapper
+
+  &__input-wrapper {
+    width: 100%;
+    margin: 0 0 20px 0;
+    position: relative;
+  }
+
+  // .form-auth__input
+
+  &__input {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    background: #fff;
+    padding: 0 15px;
+    height: 45px;
+    outline: none;
+    &:focus {
+      transition: 0.3s;
+      border-color: #0391fd;
+    }
+  }
+
+  // .form-auth__input-error
+
+  &__input-error {
+    font-size: 12px;
+    color: #ff0000;
+    padding-top: 2px;
+  }
+
+  // .form-auth__buttons-wrapper
+
+  &__buttons-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  // .form-auth__submit-button
+
+  &__submit-button {
+    transition: 0.3s;
+    background: #0391fd;
+    width: 200px;
+    margin: 0 auto;
+    color: #fff;
+    border: none;
+    height: 45px;
+    border-radius: 3px;
+    font-size: 16px;
+    outline: none;
+    &:hover {
+      transition: 0.3s;
+      background: #1bbc9b;
+      cursor: pointer;
+    }
+  }
+}
+.form-respond {
+  // .form-respond__message
+
+  &__message {
+  }
+}

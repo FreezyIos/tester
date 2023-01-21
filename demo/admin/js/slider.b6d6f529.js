@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[309],{2323:function(n,e,t){t.r(e),t.d(e,{default:function(){return l}});var c=t(3396);const r={class:"content"},s=(0,c._)("h1",{class:"content__title"},"Раздел в разработке",-1),a=[s];function i(n,e,t,s,i,u){return(0,c.wg)(),(0,c.iD)("div",r,a)}var u={name:"SliderView",components:{}},o=t(89);const d=(0,o.Z)(u,[["render",i]]);var l=d}}]);
+//# sourceMappingURL=slider.b6d6f529.js.map

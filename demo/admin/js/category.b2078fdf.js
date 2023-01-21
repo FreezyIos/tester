@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[34],{3925:function(n,t,e){e.r(t),e.d(t,{default:function(){return d}});var c=e(3396);const s={class:"content"},a=(0,c._)("h1",{class:"content__title"},"Раздел в разработке",-1),i=[a];function r(n,t,e,a,r,o){return(0,c.wg)(),(0,c.iD)("div",s,i)}var o={name:"ConfigView",components:{}},u=e(89);const f=(0,u.Z)(o,[["render",r]]);var d=f}}]);
+//# sourceMappingURL=category.b2078fdf.js.map
